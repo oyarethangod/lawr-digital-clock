@@ -157,6 +157,10 @@ h1{
 
 @media (max-width:499px){
 
+
+    .container{
+        margin-top: -80px;
+    }
 .clock{
     height: 320px;  
 }
@@ -175,7 +179,7 @@ h1{
 .six{ bottom: -4.5%; right: 42%; }
 .seven{ top: 76%; left: 23.5%; }
 .eight{ top: 60%; left: 10%; }
-.nine{ top: 41%; left: 4.5%; }
+.nine{ top: 41%; left: 3.5%; }
 .ten{ top: 20%; left: 2%; }
 .eleven{ top: 2%; left: 17%; }
 
